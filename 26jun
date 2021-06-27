@@ -173,7 +173,7 @@ http://streamsy.online:2999/vader/5zeEPYHlFW/45
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-VvbUqgHc5Pw/VJIJWAJLxfI/AAAAAAAAHi0/A0nDmO29zwk/s1600/Logo%2BDisney_Junior.png" group-title="CARICATURAS",DISNEY JR
 http://streamsy.online:2999/vader/5zeEPYHlFW/44
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="CATEGORÍAS",NAT GEO KIDS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="CARICATURAS",NAT GEO KIDS
 http://158.69.62.208:8081/live/NATGEO_KIDS_HD/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c7/6f/24/c76f24d8dff0df01af6152f05ccb7a9c.png" group-title="PREMIUM",HBO PLUS
@@ -222,7 +222,7 @@ http://streamsy.online:2999/vader/5zeEPYHlFW/78
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-lxk6HVdz2ME/VgcyW0SlNNI/AAAAAAAAlMo/9-OQcQd_PdQ/s1600/TBS-logo-2015.png" group-title="PELICULAS",TBS
 https://blackghost.live/play/14-621.php?c=1529
 
-#EXTINF:-1 tvg-logo="https://duoylvxxmi2z2.cloudfront.net/hashtag/assets/tcm/logo.png" group-title="CATEGORÍAS",TCM
+#EXTINF:-1 tvg-logo="https://duoylvxxmi2z2.cloudfront.net/hashtag/assets/tcm/logo.png" group-title="PELICULAS",TCM
 http://streamsy.online:2999/vader/5zeEPYHlFW/88
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E!_Logo.svg/560px-E!_Logo.svg.png" group-title="PELICULAS",E!
@@ -279,6 +279,8 @@ https://2448409167.tapecontent.net/radosgw/vVMW1VRxket41r2/ZMrog_ly23NUmI5MQ4FUs
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Title_Screen_for_%C3%89lite.png" group-title="ELITE T4",CAPITULO 5
 https://2565136268.tapecontent.net/radosgw/Ywwl1wWx9ofp12/5yf6UzeqxwxPZAaRMBMG5NjNM4oNui2tNPA9YGwrNptJdFBYRXyMi9z16IFG05NpbB8pU29IRNqlM1M-ub-Ql2hPuO2hu5jUtjSY8Avt7ExpqL4HypixndNfzJ5fnc2o1u3kf_izzoxVHtZqyZcHgEXiUaY2ULq1Tghz5O8mDlUmWD9NhwwBUI68_1inkeebbsT4OnI-p5UPBEhXZQ6YM-kvSCCSyDMd8zk6bl0u2zVXWpXSed0c-h8W-s7uU4xOFCr_PtCL-sXASoodROoEUa2pe4KF0KnELHq1RQ/RwK8aOQrneq.mp4
 
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/a_quiet_place_part_ii-979721999-large.jpg" group-title="PELICULAS 2021",UN LUGAR EN SILENCIO 2
+https://thuj53.cfeucdn.com/secip/247/bz0J8vdPrjWxH_3a-1SVhQ/MTg3LjI0NC4xMTAuMTU/1624787984/hls-vod-s03/flv/api/files/videos/2021/06/18/1624048431mo5ap.mp4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Title_Screen_for_%C3%89lite.png" group-title="ELITE T4",CAPITULO 6
 https://2565136214.tapecontent.net/radosgw/7zv6PoRkbaC81Y/WzLBXuNTYjDHCdfigOC6ackcMva7LkEpSjri4duTP1rhndCHIJPO1sICMkZ3r6XGcyaPNGDfBFr447LsNdY4LhJDWL20lQzunIUyIKzeu4iBmWqra8N81B6uf3N4DYk4sySLrx2yijp0noLgBLzMjWZ35kB_qTRpfGXimfF5dqiY-hcNYiH73gSPenkUzRfT4ip9_M3y8GHLCLVKCR0Lu6kUhm6pKbhuTHfCT_jdKYoMslScIB3HiAmBQpxUOqZ2DhlHcSBa-84zHYhnfU3qQTr7-7b1_rdFV1VboA/K4QE1DZv84G.mp4
 
@@ -288,4 +290,5 @@ https://861520855.tapecontent.net/radosgw/lW3OYZw7WDh7Mv0/eY6uiYGQlCSNdYwwuXv_jc
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Title_Screen_for_%C3%89lite.png" group-title="ELITE T4",CAPITULO 8
 https://861520044.tapecontent.net/radosgw/aRDKV6RodmCQW2/FWjELXioLR1umlwuAX5-GLwD_M9uCryNZQLhsMvJObkOP3wagZdBmT0477FJM97_JPRHM0hsVFdduohbaGuqeVe0BjsN2OJ8faa1vouXiycrLaf18qFr7kU8DhQ1zUFWDLfaItoChA_XlJXXlTt1JwljbjMgXjBcRa8xi3RFWwcP1kZ7sv-AFwnJwtnC76gKFsOtu5HeJgSnSmpjb5mKLM8FRAADHeABh1ztDgYm5akZCMWEjCzgHrP5DdgDPfytq4boc6BJe_s3TZWFnBsmGBDHXPin2at7VSl2FQ/rjVOq8K5eJk.mp4
 
-
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/a_quiet_place_part_ii-979721999-large.jpg" group-title="PELICULAS 2021",UN LUGAR EN SILENCIO 2
+https://thuj53.cfeucdn.com/secip/247/bz0J8vdPrjWxH_3a-1SVhQ/MTg3LjI0NC4xMTAuMTU/1624787984/hls-vod-s03/flv/api/files/videos/2021/06/18/1624048431mo5ap.mp4.m3u8
