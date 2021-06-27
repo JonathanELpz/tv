@@ -1,0 +1,88 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"group-title="MEXICO",LAS ESTRELLAS
+https://tv.teleclub.xyz/canales/L3/LASESTRELLAS.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Azteca_UNO_logo_2020.webp" group-title="MEXICO",CANAL1
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20255
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1280px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO",CANAL7
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20168
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jJ6v5ea.png" group-title="MEXICO",CANAL5
+https://blackghost.live/play/totalp2-621.php?c=1785&p=3&k=black&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1280px-Telemundo_logo_2018.svg.png" group-title="MEXICO",TELEMUNDO
+http://streamsy.online:2999/vader/5zeEPYHlFW/54
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="PELICULAS",STAR CHANNEL
+https://blackghost.live/play/14-621.php?c=11956
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1280px-Star_Fun_2020.svg.png" group-title="PREMIUM",STAR FUN
+http://gooserace.xyz:2052/live/darshan/darshan/2605970.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Star_Comedy_2020.svg/1280px-Star_Comedy_2020.svg.png" group-title="PREMIUM",STAR COMEDY
+https://blackghost.live/play/14-621.php?c=84
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Star_Classics_2020.svg/1599px-Star_Classics_2020.svg.png" group-title="PREMIUM",STAR CLASSICS
+http://158.69.62.208:8081/live/FOXCLASSICS/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1280px-Star_Action_2020.svg.png" group-title="PREMIUM",STAR ACTION
+http://gooserace.xyz:2052/live/darshan/darshan/2605905.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Star_Cinema_2020.svg/1280px-Star_Cinema_2020.svg.png" group-title="PREMIUM",STAR CINEMA
+http://158.69.62.208:8081/live/FOXCINEMA/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1280px-Star_Hits_2020.svg.png" group-title="PREMIUM",STAR HITS
+https://blackghost.live/play/14-621.php?c=11955
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Star_Series_2020.svg/1280px-Star_Series_2020.svg.png" group-title="PREMIUM",STAR SERIES
+https://blackghost.live/play/14-621.php?c=11961
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/large.1101503169_HBOPOP(varianteazul).png.681a6986dbf6d21eeea4d7efccea7e2a.png" group-title="PREMIUM",HBO POP
+https://blackghost.live/play/14-621.php?c=8102
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1280px-Star_Life_2021.svg.png" group-title="PREMIUM",STAR LIFE
+http://158.69.62.208:8081/live/FOX_LIFE_HD/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097951981-HBO-signature-pequenio-b.png" group-title="PREMIUM",HBO SIGNATURE
+https://blackghost.live/play/wistream-bglve-621.php?cat=latinos&ch=hbosignature&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://shifter.sapo.pt/wp-content/uploads/2015/10/novologoaxn_01.jpg" group-title="PELICULAS",AXN
+http://streamsy.online:2999/vader/5zeEPYHlFW/21
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="PELICULAS",SONY
+http://gooserace.xyz:2052/live/darshan/darshan/1525309.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="PELICULAS",CINEMAX
+https://blackghost.live/play/14-621.php?c=16642
+
+#EXTINF:-1 tvg-logo="https://iparatodos.com.ar/uploads/canal/imagenes/CINECANAL.png" group-title="PELICULAS",CINECANAL
+http://streamsy.online:2999/vader/5zeEPYHlFW/73
+
+#EXTINF:-1 tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0057354.jpeg" group-title="PELICULAS",STUDIO UNIVERSAL
+http://streamsy.online:2999/vader/5zeEPYHlFW/86
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png" group-title="PELICULAS",PARAMOUNT CHANNEL
+http://streamsy.online:2999/vader/5zeEPYHlFW/1166
+
+#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20130619050550/logopedia/images/thumb/2/27/Warner_Bros._wordless_banner.png/1157px-Warner_Bros._wordless_banner.png" group-title="PELICULAS",WARNER CHANNEL
+http://streamsy.online:2999/vader/5zeEPYHlFW/17
+
+#EXTINF:-1 tvg-logo="https://i2.esmas.com/golden/images/golden-premier-logo-menu.png" group-title="PREMIUM",GOLDEN PREMIER
+http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=goldenp&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large" group-title="PREMIUM",GOLDEN PLUS
+https://blackghost.live/play/totalp2-621.php?c=122&p=3&k=black&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://k32.kn3.net/taringa/9/C/4/C/8/5/Alexbjm/06C.png" group-title="PELICULAS",GOLDEN EDGE
+https://blackghost.live/play/totalp2-621.php?c=124&p=3&k=black&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Hbo_blanco.png" group-title="PREMIUM",HBO
+https://blackghost.live/play/14-621.php?c=11989
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="PREMIUM",HBO 2
+http://streamsy.online:2999/vader/5zeEPYHlFW/121
+
+#EXTINF:-1 tvg-logo="URL PNG" group-title="ELITE T4",CAPITULO 1
+https://pr6.sbcdnvid.com/hls/tysxfy5wvo66j6cdaamrzvyged3teoi6cncrcggfu,a2dlk5xgmyimagm26tq,2rdjk5xgmygckopmy7a,.urlset/master.m3u8?xxx=123
