@@ -3,50 +3,65 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"group-title="MEXICO",LAS ESTRELLAS
 http://gratuita.mrzutv.net:8080/sdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsg/sdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsg/40970
 
+#EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png" group-title="MEXICO",LAS ESTRELLAS OPC2
+https://blackghost.live/play/totalp2-621.php?c=1784&p=3&k=black&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Azteca_UNO_logo_2020.webp" group-title="MEXICO",AZTECA 1
 http://gratuita.mrzutv.net:8080/sdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsg/sdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsg/41493
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="MEXICO",AZTECA 1 OPC2
+https://blackghost.live/play/totalp2-621.php?c=27&p=3&k=black&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1280px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO",CANAL7
 http://gratuita.mrzutv.net:8080/sdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsg/sdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsg/41048
 
+#EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="MEXICO",CANAL 7 OPC2
+https://blackghost.live/play/totalp2-621.php?c=322&p=3&k=black&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJ6v5ea.png" group-title="MEXICO",CANAL5
-https://blackghost.live/play/totalp2-621.php?c=1785&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=elcinco&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jJ6v5ea.png" group-title="MEXICO",CANAL 5 OPC2
+https://blackghost.live/play/wistream-bglve-621.php?cat=latinos&ch=canal5televisa&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1280px-Telemundo_logo_2018.svg.png" group-title="MEXICO",TELEMUNDO
 http://streamsy.online:2999/vader/5zeEPYHlFW/54
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="MEXICO",TELEMUNDO OPC2
+https://blackghost.live/play/totalp2-621.php?c=85&p=3&k=black&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="PELICULAS",STAR CHANNEL
-https://blackghost.live/play/14-621.php?c=11956
+http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=starch&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1280px-Star_Fun_2020.svg.png" group-title="PREMIUM",STAR FUN
-http://gooserace.xyz:2052/live/darshan/darshan/2605970.ts
+http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=starfun&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Star_Comedy_2020.svg/1280px-Star_Comedy_2020.svg.png" group-title="PREMIUM",STAR COMEDY
-https://blackghost.live/play/14-621.php?c=84
+http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=starcomedy&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Star_Classics_2020.svg/1599px-Star_Classics_2020.svg.png" group-title="PREMIUM",STAR CLASSICS
-http://158.69.62.208:8081/live/FOXCLASSICS/chunks.m3u8
+http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=starclassics&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1280px-Star_Action_2020.svg.png" group-title="PREMIUM",STAR ACTION
-http://gooserace.xyz:2052/live/darshan/darshan/2605905.ts
+http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=staraction&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Star_Cinema_2020.svg/1280px-Star_Cinema_2020.svg.png" group-title="PREMIUM",STAR CINEMA
-http://158.69.62.208:8081/live/FOXCINEMA/chunks.m3u8
+http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=starcinema&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1280px-Star_Hits_2020.svg.png" group-title="PREMIUM",STAR HITS
-https://blackghost.live/play/14-621.php?c=11955
+http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=starhits&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Star_Series_2020.svg/1280px-Star_Series_2020.svg.png" group-title="PREMIUM",STAR SERIES
-https://blackghost.live/play/14-621.php?c=11961
+http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=starseries&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/large.1101503169_HBOPOP(varianteazul).png.681a6986dbf6d21eeea4d7efccea7e2a.png" group-title="PREMIUM",HBO POP
-https://blackghost.live/play/14-621.php?c=8102
+http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=hbopop&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1280px-Star_Life_2021.svg.png" group-title="PREMIUM",STAR LIFE
-http://158.69.62.208:8081/live/FOX_LIFE_HD/chunks.m3u8
+http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=starlife&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097951981-HBO-signature-pequenio-b.png" group-title="PREMIUM",HBO SIGNATURE
-https://blackghost.live/play/wistream-bglve-621.php?cat=latinos&ch=hbosignature&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=hbosignature&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://shifter.sapo.pt/wp-content/uploads/2015/10/novologoaxn_01.jpg" group-title="PELICULAS",AXN
 http://streamsy.online:2999/vader/5zeEPYHlFW/21
@@ -79,25 +94,13 @@ https://blackghost.live/play/totalp2-621.php?c=122&p=3&k=black&f=.m3u8
 https://blackghost.live/play/totalp2-621.php?c=124&p=3&k=black&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Hbo_blanco.png" group-title="PREMIUM",HBO
-https://blackghost.live/play/14-621.php?c=11989
+http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=hboes&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="PREMIUM",HBO 2
-http://streamsy.online:2999/vader/5zeEPYHlFW/121
-
-#EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png" group-title="MEXICO",LAS ESTRELLAS OPC2
-https://blackghost.live/play/totalp2-621.php?c=1784&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=hbo2&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://unidosok.com/wp-content/uploads/2020/02/ESTRELLA-TV-WHITE-LETTER-TRANSPARENT.png" group-title="MEXICO",ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="MEXICO",CANAL 1 OPC2
-https://blackghost.live/play/totalp2-621.php?c=27&p=3&k=black&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="MEXICO",CANAL 7 OPC2
-https://blackghost.live/play/totalp2-621.php?c=322&p=3&k=black&f=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jJ6v5ea.png" group-title="MEXICO",CANAL 5 OPC2
-https://blackghost.live/play/wistream-bglve-621.php?cat=latinos&ch=canal5televisa&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn140.picsart.com/278369393029211.png" group-title="MEXICO",NU9VE
 https://blackghost.live/play/totalp2-621.php?c=24&p=3&k=black&f=.m3u8
@@ -120,9 +123,6 @@ https://blackghost.live/play/totalp2-621.php?c=83&p=3&k=black&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/tlnovelas_m.png" group-title="NOVELAS",UNIVISION TLNOVELAS
 http://gooserace.xyz:2052/live/darshan/darshan/2605837.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="MEXICO",TELEMUNDO OPC2
-https://blackghost.live/play/totalp2-621.php?c=85&p=3&k=black&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/big/519-5196172_caracol-televisin-clipart.png" group-title="NOVELAS",CARACOL
 http://gooserace.xyz:2052/live/darshan/darshan/2606141.ts
@@ -293,5 +293,5 @@ https://861520044.tapecontent.net/radosgw/aRDKV6RodmCQW2/FWjELXioLR1umlwuAX5-GLw
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/a_quiet_place_part_ii-979721999-large.jpg" group-title="PELICULAS 2021",EL CONJURO 3
 http://ipeteve.com/REGIOFLIX100321/el%20conjuro%203%201080p-srregio.net.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZdzQTmdwe6ztwW7m7TEpu3D1sw.jpg" group-title="PELICULAS",TOM & JERRY 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/E-DqYJ1YBGs3X_9-CiQ3Zyr3Ty2F8wdVB-esmncjprfC13EhiH8vpFlolHVc733ynH8I8hve63OhobbMnErXqUI0G6gKijb33RO56PX9fsE-_FfcD9zx33aOz-B4" group-title="PELICULAS 2021",TOM & JERRY 
 http://ipeteve.com/REGIOFLIX100321/t0m.4nd.j3rry.2021.hdrip.720p.latino.SRREGIO.NET.mkv
