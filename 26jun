@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"group-title="MEXICO",LAS ESTRELLAS
 http://gratuita.mrzutv.net:8080/sdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsg/sdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsg/40970
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Azteca_UNO_logo_2020.webp" group-title="MEXICO",CANAL1
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20255
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Azteca_UNO_logo_2020.webp" group-title="MEXICO",AZTECA 1
+http://gratuita.mrzutv.net:8080/sdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsg/sdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsg/41493
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1280px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO",CANAL7
 http://gratuita.mrzutv.net:8080/sdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsg/sdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsg/41048
@@ -290,8 +290,8 @@ https://861520855.tapecontent.net/radosgw/lW3OYZw7WDh7Mv0/eY6uiYGQlCSNdYwwuXv_jc
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Title_Screen_for_%C3%89lite.png" group-title="ELITE T4",CAPITULO 8
 https://861520044.tapecontent.net/radosgw/aRDKV6RodmCQW2/FWjELXioLR1umlwuAX5-GLwD_M9uCryNZQLhsMvJObkOP3wagZdBmT0477FJM97_JPRHM0hsVFdduohbaGuqeVe0BjsN2OJ8faa1vouXiycrLaf18qFr7kU8DhQ1zUFWDLfaItoChA_XlJXXlTt1JwljbjMgXjBcRa8xi3RFWwcP1kZ7sv-AFwnJwtnC76gKFsOtu5HeJgSnSmpjb5mKLM8FRAADHeABh1ztDgYm5akZCMWEjCzgHrP5DdgDPfytq4boc6BJe_s3TZWFnBsmGBDHXPin2at7VSl2FQ/rjVOq8K5eJk.mp4
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/a_quiet_place_part_ii-979721999-large.jpg" group-title="PELICULAS 2021",UN LUGAR EN SILENCIO 2
-https://thuj53.cfeucdn.com/secip/247/bz0J8vdPrjWxH_3a-1SVhQ/MTg3LjI0NC4xMTAuMTU/1624787984/hls-vod-s03/flv/api/files/videos/2021/06/18/1624048431mo5ap.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/a_quiet_place_part_ii-979721999-large.jpg" group-title="PELICULAS 2021",EL CONJURO 3
+http://ipeteve.com/REGIOFLIX100321/el%20conjuro%203%201080p-srregio.net.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZdzQTmdwe6ztwW7m7TEpu3D1sw.jpg" group-title="PELICULAS",Bajocero (2021) 
-http://gratuita.mrzutv.net:8080/movie/sdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsg/sdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsgsdfgsdgsg/41438.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZdzQTmdwe6ztwW7m7TEpu3D1sw.jpg" group-title="PELICULAS",TOM & JERRY 
+http://ipeteve.com/REGIOFLIX100321/t0m.4nd.j3rry.2021.hdrip.720p.latino.SRREGIO.NET.mkv
