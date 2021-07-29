@@ -1,28 +1,28 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"group-title="MEXICO",LAS ESTRELLAS
-https://tv.teleclub.xyz/canales/club4/ESTRELLAS.m3u8
+https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png" group-title="MEXICO",LAS ESTRELLAS OPC2
-https://blackghost.live/play/totalp2-621.php?c=1784&p=3&k=black&f=.m3u8
+https://blackghost.live/play/totalp2-725.php?c=1784&p=3&k=black&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Azteca_UNO_logo_2020.webp" group-title="MEXICO",AZTECA 1
-https://tv.teleclub.xyz/canales/club3/AZTECA1.m3u8
+https://blackghost.live/play/totalp2-725.php?c=27&p=3&k=black&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="MEXICO",AZTECA 1 OPC2
-https://blackghost.live/play/totalp2-621.php?c=27&p=3&k=black&f=.m3u8
+http://streamsy.online:2999/vader/5zeEPYHlFW/458
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1280px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO",CANAL7
-https://tv.teleclub.xyz/canales/club3/AZTECA7.m3u8
+https://blackghost.live/play/totalp2-725.php?c=322&p=3&k=black&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="MEXICO",CANAL 7 OPC2
-https://blackghost.live/play/totalp2-621.php?c=322&p=3&k=black&f=.m3u8
+http://streamsy.online:2999/vader/5zeEPYHlFW/6
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJ6v5ea.png" group-title="MEXICO",CANAL5
-http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=elcinco&f=.m3u8
+https://blackghost.live/play/totalp2-725.php?c=1785&p=3&k=black&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJ6v5ea.png" group-title="MEXICO",CANAL 5 OPC2
-https://blackghost.live/play/wistream-bglve-621.php?cat=latinos&ch=canal5televisa&f=.m3u8
+https://blackghost.live/play/wistream-bglive-725.php?cat=latinos&ch=canal5televisa&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1280px-Telemundo_logo_2018.svg.png" group-title="MEXICO",TELEMUNDO
 https://tv.teleclub.xyz/canales/club3/TELEMUNDO.m3u8
