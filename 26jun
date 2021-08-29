@@ -4,28 +4,28 @@
 https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png" group-title="MEXICO",LAS ESTRELLAS OPC2
-https://blackghost.live/play/tves12-807.php?c=7380
+https://blackghost.live/play/totalp2-817.php?c=1784&p=3&k=black&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Azteca_UNO_logo_2020.webp" group-title="MEXICO",AZTECA UNO
-https://blackghost.live/play/totalp2-833.php?c=27&p=3&k=black&f=.m3u8
+https://blackghost.live/play/totalp2-817.php?c=27&p=3&k=black&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="MEXICO",AZTECA UNO OPC2
-https://blackghost.live/play/tves12-807.php?c=7430
+http://mirror.streamhubtv.me:8080/NEservise1999/xNNHxFeXdV/47354
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1280px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO",CANAL 7
-https://blackghost.live/play/tves12-807.php?c=7429
+https://blackghost.live/play/totalp2-817.php?c=322&p=3&k=black&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="MEXICO",CANAL 7 OPC2
 http://158.69.62.208:8081/live/Azteca7/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJ6v5ea.png" group-title="MEXICO",CANAL 5
-https://blackghost.live/play/tves12-807.php?c=6790
+https://blackghost.live/play/totalp2-817.php?c=1785&p=3&k=black&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJ6v5ea.png" group-title="MEXICO",CANAL 5 OPC2
-https://blackghost.live/play/wistream-bglive-833.php?cat=latinos&ch=canal5televisa&k=blaacckghost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-817.php?cat=latinos&ch=canal5televisa&k=blaacckghost&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1280px-Telemundo_logo_2018.svg.png" group-title="MEXICO",TELEMUNDO
-https://blackghost.live/play/tves12-807.php?c=7381
+https://blackghost.live/play/totalp2-817.php?c=85&p=3&k=black&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="MEXICO",TELEMUNDO OPC2
 http://51.81.83.56:8081/live/TelemundoMiami/chunks.m3u8
@@ -70,28 +70,28 @@ http://158.69.62.208:8081/live/AXN_HD/chunks.m3u8
 http://158.69.62.208:8081/live/SONY_HD/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="PELICULAS",CINEMAX
-https://blackghost.live/play/tves12-807.php?c=7768
+http://158.69.62.208:8081/live/CINEMAX/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://iparatodos.com.ar/uploads/canal/imagenes/CINECANAL.png" group-title="PELICULAS",CINECANAL
-https://blackghost.live/play/tves12-807.php?c=5190
+http://158.69.62.208:8081/live/CINECANAL_HD/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0057354.jpeg" group-title="PELICULAS",STUDIO UNIVERSAL
-https://blackghost.live/play/tves12-807.php?c=6776
+http://158.69.62.208:8081/live/SPACE_HD/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png" group-title="PELICULAS",PARAMOUNT CHANNEL
-http://streamsy.online:2999/vader/5zeEPYHlFW/1166
+http://187.135.181.145:8000/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20130619050550/logopedia/images/thumb/2/27/Warner_Bros._wordless_banner.png/1157px-Warner_Bros._wordless_banner.png" group-title="PELICULAS",WARNER CHANNEL
-https://blackghost.live/play/tves12-807.php?c=6775
+http://158.69.62.208:8081/live/WARNER_HD/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.esmas.com/golden/images/golden-premier-logo-menu.png" group-title="PREMIUM",GOLDEN PREMIER
-http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=goldenp&f=.m3u8
+https://blackghost.live/play/5-817.php?c=GoldenPremier&t=.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large" group-title="PREMIUM",GOLDEN PLUS
-https://blackghost.live/play/totalp2-621.php?c=122&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png" group-title="PREMIUM",GOLDEN PLUS
+https://blackghost.live/play/totalp2-817.php?c=122&p=3&k=black&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://k32.kn3.net/taringa/9/C/4/C/8/5/Alexbjm/06C.png" group-title="PELICULAS",GOLDEN EDGE
-https://blackghost.live/play/tves12-807.php?c=6784
+https://blackghost.live/play/totalp2-817.php?c=124&p=3&k=black&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Hbo_blanco.png" group-title="PREMIUM",HBO
 http://23.237.132.90:8081/PREMIUM/HBO_TWO/playlist.m3u8
@@ -178,17 +178,17 @@ http://158.69.62.208:8081/live/NATGEO_KIDS_HD/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c7/6f/24/c76f24d8dff0df01af6152f05ccb7a9c.png" group-title="PREMIUM",HBO PLUS
 http://23.237.132.90:8081/PREMIUM/HBO_PLUS_TWO/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c7/6f/24/c76f24d8dff0df01af6152f05ccb7a9c.pngURL PNG" group-title="STARZ",STARZ 1
+#EXTINF:-1 tvg-logo="https://starz.imgix.net/BuyStarz/international/starz-play-horiz-white@2x.png?auto=compress,format" group-title="STARZ",STARZ 1
 http://23.237.132.90:8081/PREMIUM/stz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png" group-title="PREMIUM",HBO XTREME
-https://tv.teleclub.xyz/canales/club3/HBOXTREME.m3u8
+https://blackghost.live/play/5-817.php?c=HBOEXTREME&t=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097892735-HBO-Family-pequenio.png" group-title="PREMIUM",HBO FAMILY
-https://tv.teleclub.xyz/canales/club/HBOFAMILY.m3u8
+https://blackghost.live/play/5-817.php?c=HboFamily&t=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png" group-title="PREMIUM",HBO MUNDI
-https://blackghost.live/play/wistream-bglve-621.php?cat=latinos&ch=maxlatino&f=.m3u8
+http://daletvplay.xyz:8080/live/qwerty/qwerty/57421.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/587463.png" group-title="PELICULAS",FX HD
 http://streamsy.online:2999/vader/5zeEPYHlFW/19
