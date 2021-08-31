@@ -262,3 +262,6 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-logo="https://home-statics.boletia.com/uploads/sponsor/logo/130351/BANDAMAX.png" group-title="MUSICA",BANDAMAX
 https://blackghost.live/play/totalp2-621.php?c=221&p=3&k=black&f=.m3u8
 -LwS12ADqMiUTnZAC5UIn6ADnLkMHujhgAsNNewG69LHNwPa7bGuPPRc-YuZ73hbmrRnZlc2i4290r-4BfJ3Xm1qf5nolNQsKZr459XOXbEQw/16NPmWQxv8q.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBjh4NDkK5piWbeftbZxn0xdPlmWVAsYPcng&usqp=CAU" group-title="PELICULAS 2021",RAPIDO Y FURIOSO 9
+http://ipeteve.com/REGIOFLIX250821/R%C3%A1pidos.Y.Furiosos.9.%282021%29.1080P-Dual-Lat-SRREGIO.NET.mkv
