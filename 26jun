@@ -4,22 +4,22 @@
 https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png" group-title="MEXICO",LAS ESTRELLAS OPC2
-https://blackghost.live/play/totalp2-817.php?c=1784&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=17&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Azteca_UNO_logo_2020.webp" group-title="MEXICO",AZTECA UNO
-https://blackghost.live/play/totalp2-817.php?c=27&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=27&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="MEXICO",AZTECA UNO OPC2
 http://mirror.streamhubtv.me:8080/NEservise1999/xNNHxFeXdV/47354
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1280px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO",CANAL 7
-https://blackghost.live/play/totalp2-817.php?c=322&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=21&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="MEXICO",CANAL 7 OPC2
 http://158.69.62.208:8081/live/Azteca7/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJ6v5ea.png" group-title="MEXICO",CANAL 5
-https://blackghost.live/play/totalp2-817.php?c=1785&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=20&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJ6v5ea.png" group-title="MEXICO",CANAL 5 OPC2
 https://blackghost.live/play/wistream-bglive-817.php?cat=latinos&ch=canal5televisa&k=blaacckghost&f=.m3u8
@@ -79,7 +79,7 @@ http://158.69.62.208:8081/live/CINECANAL_HD/chunks.m3u8
 http://158.69.62.208:8081/live/SPACE_HD/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png" group-title="PELICULAS",PARAMOUNT CHANNEL
-http://187.135.181.145:8000/play/a00k/index.m3u8
+http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=1726&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20130619050550/logopedia/images/thumb/2/27/Warner_Bros._wordless_banner.png/1157px-Warner_Bros._wordless_banner.png" group-title="PELICULAS",WARNER CHANNEL
 http://158.69.62.208:8081/live/WARNER_HD/chunks.m3u8
@@ -91,7 +91,7 @@ https://blackghost.live/play/5-817.php?c=GoldenPremier&t=.m3u8
 https://blackghost.live/play/totalp2-817.php?c=122&p=3&k=black&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://k32.kn3.net/taringa/9/C/4/C/8/5/Alexbjm/06C.png" group-title="PELICULAS",GOLDEN EDGE
-https://blackghost.live/play/totalp2-817.php?c=124&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=124&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Hbo_blanco.png" group-title="PREMIUM",HBO
 http://23.237.132.90:8081/PREMIUM/HBO_TWO/playlist.m3u8
@@ -103,7 +103,7 @@ http://23.237.132.90:8081/PREMIUM/HBO2_TWO/playlist.m3u8
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn140.picsart.com/278369393029211.png" group-title="MEXICO",NU9VE
-https://blackghost.live/play/totalp2-621.php?c=24&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=24&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Galavisi%C3%B3n_logo2012.png" group-title="MEXICO",GALAVISION
 http://blackghost.live/play/futvall-621.php?id=galavision&f=.m3u8
@@ -191,10 +191,10 @@ https://blackghost.live/play/5-817.php?c=HboFamily&t=.m3u8
 http://daletvplay.xyz:8080/live/qwerty/qwerty/57421.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/587463.png" group-title="PELICULAS",FX HD
-http://streamsy.online:2999/vader/5zeEPYHlFW/19
+http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=60&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxp_latam/Images/video/14590787/cb9deda8bcc8c46129f801a52dd0bbea/284x160-Q75_cb9deda8bcc8c46129f801a52dd0bbea.png" group-title="PELICULAS",FXM
-https://blackghost.live/play/14-621.php?c=80
+http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=138&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.amcnetworks.com/sundancechannel.com/wp-content/uploads/2016/01/SundanceTV-logo-700x384.jpg" group-title="PELICULAS",SUNDANCE
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/67142
@@ -203,65 +203,64 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/67142
 http://158.69.62.208:8081/live/UniversalChannel/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png" group-title="PELICULAS",TNT
-https://blackghost.live/play/tves12-807.php?c=7271
+http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=126&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TNT_Serie.svg/649px-TNT_Serie.svg.png" group-title="PELICULAS",TNT SERIES
-https://blackghost.live/play/tves12-807.php?c=5179
+http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=71&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1024px-SpaceLogo.svg.png" group-title="PELICULAS",SPACE
-https://blackghost.live/play/tves12-807.php?c=6779
+http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=129&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/1280px-A%26E-Network-Logo.svg.png" group-title="PELICULAS",A&E
-http://streamsy.online:2999/vader/5zeEPYHlFW/20
+http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=62&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1920px-AMC_logo_2016.svg.png" group-title="PELICULAS",AMC
-https://blackghost.live/play/tves12-807.php?c=7272
+http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=131&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-lxk6HVdz2ME/VgcyW0SlNNI/AAAAAAAAlMo/9-OQcQd_PdQ/s1600/TBS-logo-2015.png" group-title="PELICULAS",TBS
-https://blackghost.live/play/tves12-807.php?c=7744
+http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=81&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://duoylvxxmi2z2.cloudfront.net/hashtag/assets/tcm/logo.png" group-title="PELICULAS",TCM
-http://streamsy.online:2999/vader/5zeEPYHlFW/88
+http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=128&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E!_Logo.svg/560px-E!_Logo.svg.png" group-title="PELICULAS",E!
-https://blackghost.live/play/tves12-807.php?c=7384
+http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=55&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png" group-title="PELICULAS",GOLDEN
-https://blackghost.live/play/tves12-807.php?c=6783
+http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=123&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/de-pelicula.png" group-title="PELICULAS",DE PELICULA
-https://blackghost.live/play/totalp2-621.php?c=335&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=335&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRMdFzHOZYEQAeqniX4n7Xn1cBQJKNMJoJiQ&usqp=CAU" group-title="PELICULAS",DE PELICULA PLUS
-https://blackghost.live/play/totalp2-621.php?c=121&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=121&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/TLHIT_logo.png/245px-TLHIT_logo.png" group-title="MUSICA",TELEHIT
-http://streamsy.online:2999/vader/5zeEPYHlFW/422
+http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=218&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_eTwBAQAvlyG82g202STXCZ4jNt4_Zw7gWg&usqp=CAU" group-title="MUSICA",TELEHIT PLUS
-https://blackghost.live/play/totalp2-621.php?c=220&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=220&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png" group-title="MUSICA",NICK MUSIC
 https://blackghost.live/play/totalp2-621.php?c=1708&p=3&k=black&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.sopitas.com/wp-content/uploads/2020/04/VH1.jpeg" group-title="MUSICA",VH1 HD
-https://blackghost.live/play/totalp2-621.php?c=334&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=334&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png" group-title="MUSICA",MTV HITS
-https://blackghost.live/play/totalp2-621.php?c=213&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=213&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/57-579706_mtv-live-hd-mtv-live-logo.png" group-title="MUSICA",MTV LIVE
-https://blackghost.live/play/totalp2-621.php?c=211&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=211&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-brand-png-logo-15.png" group-title="MUSICA",MTV
-https://blackghost.live/play/totalp2-621.php?c=212&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=212&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/MTV_Dance_2017_logo_Australia.svg/1200px-MTV_Dance_2017_logo_Australia.svg.png" group-title="MUSICA",MTV DANCE
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://home-statics.boletia.com/uploads/sponsor/logo/130351/BANDAMAX.png" group-title="MUSICA",BANDAMAX
-https://blackghost.live/play/totalp2-621.php?c=221&p=3&k=black&f=.m3u8
--LwS12ADqMiUTnZAC5UIn6ADnLkMHujhgAsNNewG69LHNwPa7bGuPPRc-YuZ73hbmrRnZlc2i4290r-4BfJ3Xm1qf5nolNQsKZr459XOXbEQw/16NPmWQxv8q.mp4
+http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=221&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBjh4NDkK5piWbeftbZxn0xdPlmWVAsYPcng&usqp=CAU" group-title="PELICULAS 2021",RAPIDO Y FURIOSO 9
 http://ipeteve.com/REGIOFLIX250821/R%C3%A1pidos.Y.Furiosos.9.%282021%29.1080P-Dual-Lat-SRREGIO.NET.mkv
