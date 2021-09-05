@@ -31,37 +31,40 @@ https://blackghost.live/play/totalp2-817.php?c=85&p=3&k=black&f=.m3u8
 http://51.81.83.56:8081/live/TelemundoMiami/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="PELICULAS",STAR CHANNEL
-http://158.69.62.208:8081/live/FOX_HD/chunks.m3u8
+http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/3760.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1280px-Star_Fun_2020.svg.png" group-title="PREMIUM",STAR FUN
-http://23.237.132.90:8081/PREMIUM/STAR_FUN_TWO/playlist.m3u8
+http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/3758.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Star_Comedy_2020.svg/1280px-Star_Comedy_2020.svg.png" group-title="PREMIUM",STAR COMEDY
-http://23.237.132.90:8081/PREMIUM/STAR_COMEDY_TWO/playlist.m3u8
+http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/7993.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Star_Classics_2020.svg/1599px-Star_Classics_2020.svg.png" group-title="PREMIUM",STAR CLASSICS
-http://158.69.62.208:8081/live/FOXCLASSICS/chunks.m3u8
+http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/133839.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1280px-Star_Action_2020.svg.png" group-title="PREMIUM",STAR ACTION
-http://23.237.132.90:8081/PREMIUM/STAR_ACTION_TWO/playlist.m3u8
+http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/3750.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Star_Cinema_2020.svg/1280px-Star_Cinema_2020.svg.png" group-title="PREMIUM",STAR CINEMA
-http://158.69.62.208:8081/live/FOXCINEMA/chunks.m3u8
+http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/138098.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1280px-Star_Hits_2020.svg.png" group-title="PREMIUM",STAR HITS
-http://xtreampanel.vip:2087/Fdoclaro/nDL7XtHc7I/72381
+http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/138100.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Star_Series_2020.svg/1280px-Star_Series_2020.svg.png" group-title="PREMIUM",STAR SERIES
-http://158.69.62.208:8081/live/FOXSERIES/chunks.m3u8
+http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/138101.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/large.1101503169_HBOPOP(varianteazul).png.681a6986dbf6d21eeea4d7efccea7e2a.png" group-title="PREMIUM",HBO POP
-http://kstv.xyz:8080/Admluda192/0046096196/46647
+http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/2795.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c7/6f/24/c76f24d8dff0df01af6152f05ccb7a9c.png" group-title="PREMIUM",HBO PLUS
+http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/2793.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1280px-Star_Life_2021.svg.png" group-title="PREMIUM",STAR LIFE
-http://158.69.62.208:8081/live/FOX_LIFE_HD/chunks.m3u8
+http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/3753.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097951981-HBO-signature-pequenio-b.png" group-title="PREMIUM",HBO SIGNATURE
-http://23.237.132.90:8081/PREMIUM/HBO_SIGNATURE_TWO/playlist.m3u8
+http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/2794.m3u8
 
 #EXTINF:-1 tvg-logo="https://shifter.sapo.pt/wp-content/uploads/2015/10/novologoaxn_01.jpg" group-title="PELICULAS",AXN
 http://158.69.62.208:8081/live/AXN_HD/chunks.m3u8
@@ -94,10 +97,10 @@ https://blackghost.live/play/totalp2-817.php?c=122&p=3&k=black&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=124&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Hbo_blanco.png" group-title="PREMIUM",HBO
-http://23.237.132.90:8081/PREMIUM/HBO_TWO/playlist.m3u8
+http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/4796.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="PREMIUM",HBO 2
-http://23.237.132.90:8081/PREMIUM/HBO2_TWO/playlist.m3u8
+http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/2791.m3u8
 
 #EXTINF:-1 tvg-logo="http://unidosok.com/wp-content/uploads/2020/02/ESTRELLA-TV-WHITE-LETTER-TRANSPARENT.png" group-title="MEXICO",ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
@@ -182,13 +185,13 @@ http://23.237.132.90:8081/PREMIUM/HBO_PLUS_TWO/playlist.m3u8
 http://23.237.132.90:8081/PREMIUM/stz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png" group-title="PREMIUM",HBO XTREME
-https://blackghost.live/play/5-817.php?c=HBOEXTREME&t=.m3u8
+http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/135858.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097892735-HBO-Family-pequenio.png" group-title="PREMIUM",HBO FAMILY
-https://blackghost.live/play/5-817.php?c=HboFamily&t=.m3u8
+http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/2792.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png" group-title="PREMIUM",HBO MUNDI
-http://daletvplay.xyz:8080/live/qwerty/qwerty/57421.m3u8
+http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/2796.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/587463.png" group-title="PELICULAS",FX HD
 http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=60&p=3&k=srregio&f=.m3u8
@@ -263,7 +266,7 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=221&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBjh4NDkK5piWbeftbZxn0xdPlmWVAsYPcng&usqp=CAU" group-title="PELICULAS 2021",RAPIDO Y FURIOSO 9
-http://ipeteve.com/REGIOFLIX250821/R%C3%A1pidos.Y.Furiosos.9.%282021%29.1080P-Dual-Lat-SRREGIO.NET.mkv
+http://1581.f5.si:8000/movie/clarovideo500400/0ZV3A5BHDS/140442.mkv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG6NQdj4vGMEX5v0MoeSWb2qTnHFVeuJh4Rg&usqp=CAU" group-title="PELICULAS 2021",ISLA NEGRA
 http://ipeteve.com/REGIOFLIX250821/Schwarze.insel.2021.1080p-dual-lat-SRREGIO.NET.mkv
