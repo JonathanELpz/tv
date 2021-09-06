@@ -34,37 +34,37 @@ http://51.81.83.56:8081/live/TelemundoMiami/chunks.m3u8
 http://gratuita.mrzutv.net:8080/AFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAE/AFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAE/40981
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1280px-Star_Fun_2020.svg.png" group-title="PREMIUM",STAR FUN
-http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/3758.m3u8
+https://blackghost.live/play/zufree-903.php?c=41488
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Star_Comedy_2020.svg/1280px-Star_Comedy_2020.svg.png" group-title="PREMIUM",STAR COMEDY
-http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/7993.m3u8
+https://blackghost.live/play/wistream-bglive-903.php?cat=latinos&ch=foxcomedy&k=blaackghost&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Star_Classics_2020.svg/1599px-Star_Classics_2020.svg.png" group-title="PREMIUM",STAR CLASSICS
-http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/133839.m3u8
+http://158.69.62.208:8081/live/FOXCLASSICS/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1280px-Star_Action_2020.svg.png" group-title="PREMIUM",STAR ACTION
-http://gratuita.mrzutv.net:8080/AFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAE/AFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAE/41485
+https://blackghost.live/play/5-903.php?c=FoxAction&t=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Star_Cinema_2020.svg/1280px-Star_Cinema_2020.svg.png" group-title="PREMIUM",STAR CINEMA
-http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/138098.m3u8
+https://blackghost.live/play/totalp1-903.php?c=1729&p=3&k=black&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1280px-Star_Hits_2020.svg.png" group-title="PREMIUM",STAR HITS
-http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/138100.m3u8
+https://blackghost.live/play/totalp1-903.php?c=146&p=3&k=black&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Star_Series_2020.svg/1280px-Star_Series_2020.svg.png" group-title="PREMIUM",STAR SERIES
-http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/138101.m3u8
+http://158.69.62.208:8081/live/FOXSERIES/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/large.1101503169_HBOPOP(varianteazul).png.681a6986dbf6d21eeea4d7efccea7e2a.png" group-title="PREMIUM",HBO POP
-http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/2795.m3u8
+http://budtvlight.com:25461/live/fernando/1234/1476.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c7/6f/24/c76f24d8dff0df01af6152f05ccb7a9c.png" group-title="PREMIUM",HBO PLUS
-http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/2793.m3u8
+http://budtvlight.com:25461/live/fernando/1234/10875.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1280px-Star_Life_2021.svg.png" group-title="PREMIUM",STAR LIFE
 http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/3753.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097951981-HBO-signature-pequenio-b.png" group-title="PREMIUM",HBO SIGNATURE
-http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/2794.m3u8
+https://blackghost.live/play/wistream-bglive-903.php?cat=latinos&ch=hbosignature&k=blaackghost&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://shifter.sapo.pt/wp-content/uploads/2015/10/novologoaxn_01.jpg" group-title="PELICULAS",AXN
 http://158.69.62.208:8081/live/AXN_HD/chunks.m3u8
@@ -97,10 +97,10 @@ https://blackghost.live/play/totalp2-817.php?c=122&p=3&k=black&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=124&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Hbo_blanco.png" group-title="PREMIUM",HBO
-http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/4796.m3u8
+http://177.126.50.94:8000/play/a01w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="PREMIUM",HBO 2
-http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/2791.m3u8
+http://budtvlight.com:25461/live/fernando/1234/10873.m3u8
 
 #EXTINF:-1 tvg-logo="http://unidosok.com/wp-content/uploads/2020/02/ESTRELLA-TV-WHITE-LETTER-TRANSPARENT.png" group-title="MEXICO",ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
@@ -182,13 +182,13 @@ http://158.69.62.208:8081/live/NATGEO_KIDS_HD/chunks.m3u8
 http://23.237.132.90:8081/PREMIUM/stz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png" group-title="PREMIUM",HBO XTREME
-http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/135858.m3u8
+http://budtvlight.com:25461/live/fernando/1234/1477.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097892735-HBO-Family-pequenio.png" group-title="PREMIUM",HBO FAMILY
-http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/2792.m3u8
+http://budtvlight.com:25461/live/fernando/1234/1474.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png" group-title="PREMIUM",HBO MUNDI
-http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/2796.m3u8
+http://daletvplay.xyz:8080/live/qwerty/qwerty/57421.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/587463.png" group-title="PELICULAS",FX HD
 http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=60&p=3&k=srregio&f=.m3u8
