@@ -4,13 +4,13 @@
 https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png" group-title="MEXICO",LAS ESTRELLAS OPC2
-http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=17&p=3&k=srregio&f=.m3u8
+http://gratuita.mrzutv.net:8080/AFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAE/AFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAE/40970
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Azteca_UNO_logo_2020.webp" group-title="MEXICO",AZTECA UNO
 http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=27&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="MEXICO",AZTECA UNO OPC2
-http://mirror.streamhubtv.me:8080/NEservise1999/xNNHxFeXdV/47354
+http://gratuita.mrzutv.net:8080/AFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAE/AFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAE/41493
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1280px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO",CANAL 7
 http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=21&p=3&k=srregio&f=.m3u8
@@ -31,7 +31,7 @@ https://blackghost.live/play/totalp2-817.php?c=85&p=3&k=black&f=.m3u8
 http://51.81.83.56:8081/live/TelemundoMiami/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="PELICULAS",STAR CHANNEL
-http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/3760.m3u8
+http://gratuita.mrzutv.net:8080/AFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAE/AFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAE/40981
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1280px-Star_Fun_2020.svg.png" group-title="PREMIUM",STAR FUN
 http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/3758.m3u8
@@ -43,7 +43,7 @@ http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/7993.m3u8
 http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/133839.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1280px-Star_Action_2020.svg.png" group-title="PREMIUM",STAR ACTION
-http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/3750.m3u8
+http://gratuita.mrzutv.net:8080/AFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAE/AFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAE/41485
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Star_Cinema_2020.svg/1280px-Star_Cinema_2020.svg.png" group-title="PREMIUM",STAR CINEMA
 http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/138098.m3u8
@@ -145,32 +145,32 @@ https://blackghost.live/play/totalp2-621.php?c=86&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-050AUHplpUI/VFuobCREnsI/AAAAAAAAkCE/Zs_lGMgmA74/s1600/D.Turbo.png" group-title="CULTURA",DISCOVERY TURBO
 https://blackghost.live/play/wistream-bglve-621.php?cat=latinos&ch=discoveryturbo&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="CARICATURAS",DISCOVERY KIDS MX
-https://blackghost.live/play/totalp2-621.php?c=109&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="CARICATURAS",DISCOVERY KIDS
+http://gratuita.mrzutv.net:8080/AFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAE/AFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAE/41002
 
 #EXTINF:-1 tvg-logo="http://img2.wikia.nocookie.net/__cb20140318145557/logopedia/images/4/4b/Discovery_kids_hd_logo.png" group-title="CARICATURAS",DISCOVERY KIDS PREMIUM
 http://streamsy.online:2999/vader/5zeEPYHlFW/43
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="CARICATURAS",NICKELODEO
-https://blackghost.live/play/tves12-807.php?c=7273
+http://gratuita.mrzutv.net:8080/AFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAE/AFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAE/41004
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/73545.png" group-title="CARICATURAS",NICK TEEN
 https://blackghost.live/play/14-621.php?c=416
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_xd-mediano.png" group-title="CARICATURAS",DISNEY XD
-http://streamsy.online:2999/vader/5zeEPYHlFW/51
+http://gratuita.mrzutv.net:8080/AFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAE/AFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAE/41005
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png" group-title="CARICATURAS",CARTOON NETWORK
 https://blackghost.live/play/tves12-807.php?c=7421
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png" group-title="CARICATURAS",DISNEY CHANNEL
-http://streamsy.online:2999/vader/5zeEPYHlFW/46
+http://gratuita.mrzutv.net:8080/AFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAE/AFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAE/41006
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/boomerang_latinoamerica-mediano.png" group-title="CARICATURAS",BOOMERANG
 http://streamsy.online:2999/vader/5zeEPYHlFW/52
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png" group-title="CARICATURAS",NICK JR
-https://blackghost.live/play/tves12-807.php?c=7389
+http://gratuita.mrzutv.net:8080/AFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAE/AFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAE/41001
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-VvbUqgHc5Pw/VJIJWAJLxfI/AAAAAAAAHi0/A0nDmO29zwk/s1600/Logo%2BDisney_Junior.png" group-title="CARICATURAS",DISNEY JR
 http://streamsy.online:2999/vader/5zeEPYHlFW/44
