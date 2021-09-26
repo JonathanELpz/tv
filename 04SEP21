@@ -30,7 +30,7 @@ https://blackghost.live/play/totalp2-817.php?c=85&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="MEXICO",TELEMUNDO OPC2
 http://51.81.83.56:8081/live/TelemundoMiami/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="PELICULAS",STAR CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO",STAR CHANNEL
 http://gratuita.mrzutv.net:8080/AFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAE/AFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAEAFAERFAERFAERFAERFAE/40981
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1280px-Star_Fun_2020.svg.png" group-title="PREMIUM",STAR FUN
@@ -66,34 +66,34 @@ http://1581.f5.si:8000/live/clarovideo500400/0ZV3A5BHDS/3753.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097951981-HBO-signature-pequenio-b.png" group-title="PREMIUM",HBO SIGNATURE
 https://blackghost.live/play/wistream-bglive-903.php?cat=latinos&ch=hbosignature&k=blaackghost&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://shifter.sapo.pt/wp-content/uploads/2015/10/novologoaxn_01.jpg" group-title="PELICULAS",AXN
+#EXTINF:-1 tvg-logo="https://shifter.sapo.pt/wp-content/uploads/2015/10/novologoaxn_01.jpg" group-title="ENTRETENIMIENTO",AXN
 http://158.69.62.208:8081/live/AXN_HD/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="PELICULAS",SONY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="ENTRETENIMIENTO",SONY
 http://158.69.62.208:8081/live/SONY_HD/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="PELICULAS",CINEMAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="ENTRETENIMIENTO",CINEMAX
 http://158.69.62.208:8081/live/CINEMAX/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://iparatodos.com.ar/uploads/canal/imagenes/CINECANAL.png" group-title="PELICULAS",CINECANAL
+#EXTINF:-1 tvg-logo="https://iparatodos.com.ar/uploads/canal/imagenes/CINECANAL.png" group-title="ENTRETENIMIENTO",CINECANAL
 http://158.69.62.208:8081/live/CINECANAL_HD/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0057354.jpeg" group-title="PELICULAS",STUDIO UNIVERSAL
+#EXTINF:-1 tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0057354.jpeg" group-title="ENTRETENIMIENTO",STUDIO UNIVERSAL
 http://158.69.62.208:8081/live/SPACE_HD/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png" group-title="PELICULAS",PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png" group-title="ENTRETENIMIENTO",PARAMOUNT CHANNEL
 http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=1726&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20130619050550/logopedia/images/thumb/2/27/Warner_Bros._wordless_banner.png/1157px-Warner_Bros._wordless_banner.png" group-title="PELICULAS",WARNER CHANNEL
+#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20130619050550/logopedia/images/thumb/2/27/Warner_Bros._wordless_banner.png/1157px-Warner_Bros._wordless_banner.png" group-title="ENTRETENIMIENTO",WARNER CHANNEL
 http://158.69.62.208:8081/live/WARNER_HD/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.esmas.com/golden/images/golden-premier-logo-menu.png" group-title="PREMIUM",GOLDEN PREMIER
+#EXTINF:-1 tvg-logo="https://i2.esmas.com/golden/images/golden-premier-logo-menu.png" group-title="ENTRETENIMIENTO",GOLDEN PREMIER
 https://blackghost.live/play/5-817.php?c=GoldenPremier&t=.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png" group-title="PREMIUM",GOLDEN PLUS
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png" group-title="ENTRETENIMIENTO",GOLDEN PLUS
 https://blackghost.live/play/totalp2-817.php?c=122&p=3&k=black&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://k32.kn3.net/taringa/9/C/4/C/8/5/Alexbjm/06C.png" group-title="PELICULAS",GOLDEN EDGE
+#EXTINF:-1 tvg-logo="http://k32.kn3.net/taringa/9/C/4/C/8/5/Alexbjm/06C.png" group-title="ENTRETENIMIENTO",GOLDEN EDGE
 http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=124&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Hbo_blanco.png" group-title="PREMIUM",HBO
@@ -190,49 +190,49 @@ http://budtvlight.com:25461/live/fernando/1234/1474.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png" group-title="PREMIUM",HBO MUNDI
 http://daletvplay.xyz:8080/live/qwerty/qwerty/57421.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/587463.png" group-title="PELICULAS",FX HD
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/587463.png" group-title="ENTRETENIMIENTO",FX HD
 http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=60&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxp_latam/Images/video/14590787/cb9deda8bcc8c46129f801a52dd0bbea/284x160-Q75_cb9deda8bcc8c46129f801a52dd0bbea.png" group-title="PELICULAS",FXM
+#EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxp_latam/Images/video/14590787/cb9deda8bcc8c46129f801a52dd0bbea/284x160-Q75_cb9deda8bcc8c46129f801a52dd0bbea.png" group-title="ENTRETENIMIENTO",FXM
 http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=138&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://images.amcnetworks.com/sundancechannel.com/wp-content/uploads/2016/01/SundanceTV-logo-700x384.jpg" group-title="PELICULAS",SUNDANCE
+#EXTINF:-1 tvg-logo="http://images.amcnetworks.com/sundancechannel.com/wp-content/uploads/2016/01/SundanceTV-logo-700x384.jpg" group-title="ENTRETENIMIENTO",SUNDANCE
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/67142
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1280px-Universal_TV_logo.svg.png" group-title="PELICULAS",UNIVERSAL HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1280px-Universal_TV_logo.svg.png" group-title="ENTRETENIMIENTO",UNIVERSAL HD
 http://158.69.62.208:8081/live/UniversalChannel/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png" group-title="PELICULAS",TNT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png" group-title="ENTRETENIMIENTO",TNT
 http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=126&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TNT_Serie.svg/649px-TNT_Serie.svg.png" group-title="PELICULAS",TNT SERIES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TNT_Serie.svg/649px-TNT_Serie.svg.png" group-title="ENTRETENIMIENTO",TNT SERIES
 http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=71&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1024px-SpaceLogo.svg.png" group-title="PELICULAS",SPACE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1024px-SpaceLogo.svg.png" group-title="ENTRETENIMIENTO",SPACE
 http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=129&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/1280px-A%26E-Network-Logo.svg.png" group-title="PELICULAS",A&E
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/1280px-A%26E-Network-Logo.svg.png" group-title="ENTRETENIMIENTO",A&E
 http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=62&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1920px-AMC_logo_2016.svg.png" group-title="PELICULAS",AMC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1920px-AMC_logo_2016.svg.png" group-title="ENTRETENIMIENTO",AMC
 http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=131&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-lxk6HVdz2ME/VgcyW0SlNNI/AAAAAAAAlMo/9-OQcQd_PdQ/s1600/TBS-logo-2015.png" group-title="PELICULAS",TBS
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-lxk6HVdz2ME/VgcyW0SlNNI/AAAAAAAAlMo/9-OQcQd_PdQ/s1600/TBS-logo-2015.png" group-title="ENTRETENIMIENTO",TBS
 http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=81&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://duoylvxxmi2z2.cloudfront.net/hashtag/assets/tcm/logo.png" group-title="PELICULAS",TCM
+#EXTINF:-1 tvg-logo="https://duoylvxxmi2z2.cloudfront.net/hashtag/assets/tcm/logo.png" group-title="ENTRETENIMIENTO",TCM
 http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=128&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E!_Logo.svg/560px-E!_Logo.svg.png" group-title="PELICULAS",E!
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E!_Logo.svg/560px-E!_Logo.svg.png" group-title="ENTRETENIMIENTO",E!
 http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=55&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png" group-title="PELICULAS",GOLDEN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png" group-title="ENTRETENIMIENTO",GOLDEN
 http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=123&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/de-pelicula.png" group-title="PELICULAS",DE PELICULA
+#EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/de-pelicula.png" group-title="ENTRETENIMIENTO",DE PELICULA
 http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=335&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRMdFzHOZYEQAeqniX4n7Xn1cBQJKNMJoJiQ&usqp=CAU" group-title="PELICULAS",DE PELICULA PLUS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRMdFzHOZYEQAeqniX4n7Xn1cBQJKNMJoJiQ&usqp=CAU" group-title="ENTRETENIMIENTO",DE PELICULA PLUS
 http://ipeteve.com/php/SR_REGIO_040921/tp.php?c=121&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/TLHIT_logo.png/245px-TLHIT_logo.png" group-title="MUSICA",TELEHIT
